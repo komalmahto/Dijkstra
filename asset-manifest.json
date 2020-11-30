@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Dijkstra/static/css/main.40e63949.chunk.css",
+    "main.js": "/Dijkstra/static/js/main.86d77619.chunk.js",
+    "main.js.map": "/Dijkstra/static/js/main.86d77619.chunk.js.map",
+    "runtime-main.js": "/Dijkstra/static/js/runtime-main.cbf85018.js",
+    "runtime-main.js.map": "/Dijkstra/static/js/runtime-main.cbf85018.js.map",
+    "static/js/2.8c343556.chunk.js": "/Dijkstra/static/js/2.8c343556.chunk.js",
+    "static/js/2.8c343556.chunk.js.map": "/Dijkstra/static/js/2.8c343556.chunk.js.map",
+    "index.html": "/Dijkstra/index.html",
+    "static/css/main.40e63949.chunk.css.map": "/Dijkstra/static/css/main.40e63949.chunk.css.map",
+    "static/js/2.8c343556.chunk.js.LICENSE.txt": "/Dijkstra/static/js/2.8c343556.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbf85018.js",
+    "static/js/2.8c343556.chunk.js",
+    "static/css/main.40e63949.chunk.css",
+    "static/js/main.86d77619.chunk.js"
+  ]
+}
